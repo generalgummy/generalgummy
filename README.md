@@ -1,6 +1,8 @@
 ## Hey! I'm Tarun
 
-🖥️ I'm currently a aspiring software engineer
+🖥️ I'm currently a aspiring software engineer based in Canada
+
+ 
 
 <!--
 **generalgummy/generalgummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
