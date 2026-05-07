@@ -1,7 +1,7 @@
 ## Hey! I'm Tarun
 
-🖥️ I'm currently a aspiring software engineer based in Canada
-🧑🏽‍💻 Currently working on full stack web development
+- 🖥️ I'm currently a aspiring software engineer based in Canada
+- 🧑🏽‍💻 Currently working on full stack web development
 
 
  
