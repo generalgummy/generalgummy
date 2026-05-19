@@ -1,6 +1,6 @@
 ## Hey! I'm Tarun
 - # 💫 About Me:
-🌱 currently learning SQL and web dev<br>🧑🏽‍💻 Looking for software engineering roles<br>❤️ Interested in full stack development<br>💻 Aspiring software engineer based in Canada
+🌱 currently learning SQL and JavaScript<br>🧑🏽‍💻 Looking for software engineering roles<br>❤️ Interested in full stack development<br>💻 Aspiring software engineer based in Canada
 
 
 ## 🌐 Socials:
